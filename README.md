@@ -2,50 +2,29 @@
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
+> Tentei transformar um dos personagens de uma mesa de RPG que estou participando em um ser real!
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para desebvolvimento das imagens, avançando desde o personagem criado em Hero Forge, até sua versão ultra realista;
+- IA Generativa **[VEO 3](https://gemini.google/overview/video-generation/?utm_source=gemini&utm_medium=paid_media&utm_campaign=g1p_gemini_wfac_variant2&utm_source=google&utm_medium=cpc&utm_campaign=2024ptBR_gemfeb&gclsrc=aw.ds&gad_source=1&gad_campaignid=22501236391&gbraid=0AAAAApk5Bhm80r2KGpe6LdcvPQZLtfaZr&gclid=CjwKCAiA8vXIBhAtEiwAf3B-g_eEbfyRLZtI9BBn4r54yLUl8Z_84QkZKICMvyVImTB2t_7i5jxsWRoC91gQAvD_BwE)** para criação do personagem animado. E ainda estou trabalhando para futuramente ter uma versão completa com sincronização labial;
+- Software **[CapCut](https://www.capcut.com/pt-br/tools/desktop-video-editor?utm_medium=sem&utm_source=googleadwords_int&pid=359289&af_c_id=22796902711&adset_id=181783636505&ad_id=763715934156&placement=&keyword_name=capcut&targetid=aud-2431661285189:kwd-1406970026529&matchtype=e&gad_source=1&gad_campaignid=22796902711&gbraid=0AAAAACROvhkzjaVmsFhA6PMEwjqj6avfl&gclid=CjwKCAiA8vXIBhAtEiwAf3B-g0h1d1SMZytju2DGk3ULSJDNuThKZKj4YUPvUQZxYzurn-MjsOs3RBoCf4EQAvD_BwE)** para edição de vídeo.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+[LINK PARA O VÍDEO AQUI](https://drive.google.com/file/d/1aA2HHSXMHaa5CXzy2HyHszr5bmkfnswb/view?usp=sharing)
 
-### Exemplos e Insigths
+## 💭 Reflexão
+Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+<p dir="auto">&nbsp;&nbsp;&nbsp;André Soares<br>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/AndreDG88">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/andre-soares88/">LinkedIn</a>
+&nbsp;|&nbsp;
