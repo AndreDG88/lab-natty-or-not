@@ -6,7 +6,7 @@
 
 Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🎯 Bora Pro Desafio!?
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para desebvolvimento das imagens, avançando desde o personagem criado em Hero Forge, até sua versão ultra realista;
